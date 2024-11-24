@@ -1,0 +1,2 @@
+[10-Apr-2023 09:38:29 UTC] PHP Notice:  Undefined index: login_name in /home/c6sylsi8xjwp/public_html/projects/billing/billing/topbar.php on line 23
+[10-Apr-2023 09:38:29 UTC] PHP Notice:  Undefined index: login_id in /home/c6sylsi8xjwp/public_html/projects/billing/billing/topbar.php on line 36
