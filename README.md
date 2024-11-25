@@ -1,6 +1,6 @@
 # Cafe_Billing_Software
  
-. Abstract
+. Abstract: 
 In order to expedite the billing process in small cafe settings, this project covers the creation
 and implementation of a Cafe Billing Software. The main goal is to replace labourintensive, error-prone manual billing procedures with a digital solution that is more
 accurate, user-friendly, and efficient. This software is designed with the specific
